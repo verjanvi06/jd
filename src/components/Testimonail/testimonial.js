@@ -5,7 +5,7 @@ const Testimonial = () => {
     <div>
       <section class="text-gray-600 body-font">
   <div class="container px-5 py-12 mx-auto">
-    <h1 class="text-3xl font-medium title-font text-gray-900 mb-12 text-center">Testimonials</h1>
+    <h1 class="text-3xl font-medium title-font text-gray-900 mb-12 text-center">An expression of appreciation</h1>
     <div class="flex flex-wrap -m-4">
       <div class="p-4 md:w-1/2 w-full">
         <div class="h-full bg-gray-100 p-8 rounded">
@@ -14,10 +14,10 @@ const Testimonial = () => {
           </svg>
           <p class="leading-relaxed mb-6">“You wear your jewelry, don’t let it wear you.” </p>
           <a class="inline-flex items-center">
-            <img alt="testimonial" src="https://dummyimage.com/106x106" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
+            <img alt="testimonial" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Masaba_Gupta_snapped_attending_the_Power_Brands_event.jpg" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
             <span class="flex-grow flex flex-col pl-4">
               <span class="title-font font-medium text-gray-900">— Masaba Gupta</span>
-              <span class="text-gray-500 text-sm">UI DEVELOPER</span>
+              <span class="text-gray-500 text-sm">Indian fashion designer</span>
             </span>
           </a>
         </div>
@@ -29,10 +29,11 @@ const Testimonial = () => {
           </svg>
           <p class="leading-relaxed mb-6">“Into every girl’s life, a little diamond should fall.”</p>
           <a class="inline-flex items-center">
-            <img alt="testimonial" src="https://img.freepik.com/premium-photo/diamond-tweezers_69064-1724.jpg?w=740" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
+            <img alt="testimonial" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elizabeth_Taylor%2C_late_1950s.jpg/1200px-Elizabeth_Taylor%2C_late_1950s.jpg" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"/>
             <span class="flex-grow flex flex-col pl-4">
               <span class="title-font font-medium text-gray-900"> — Elizabeth Taylor</span>
-              <span class="text-gray-500 text-sm">DESIGNER</span>
+              <span class="text-gray-500 text-sm">British-American actress
+</span>
             </span>
           </a>
         </div>
